@@ -1,14 +1,10 @@
 ### Проекты, выполненные в рамках обучения в Яндекс.Практикуме, профессия "Аналитик данных".
 
-| **Название проекта** | **Описание** | **Используемые библиотеки** |
+| **Название проекта** | **Описание** | **Используемые инструменты** |
 |----------------|:---------:|----------------:|
-| [Исследование рынка заведений общественного питания Москвы](https://github.com/unlunzzo/yndx-praktikum-projects/blob/master/Food_market_visualization/cafe_visualization.ipynb) | По центру | По правому краю |
-
-
-| [Изучение рынка игр](https://github.com/unlunzzo/yndx-praktikum-projects/blob/master/Games_market/games.ipynb) | текст | текст |
-
-
+| [Исследование рынка заведений общественного питания Москвы](https://github.com/unlunzzo/yndx-praktikum-projects/blob/master/Food_market_visualization/cafe_visualization.ipynb) | Исследовать рынок общественного питания Москвы на основе открытых данных, выдвинуть предположения для принятия решения об открытии нового заведения | Pandas, Plotly, Python, Seaborn, визуализация данных |
+| [Изучение рынка игр](https://github.com/unlunzzo/yndx-praktikum-projects/blob/master/Games_market/games.ipynb) | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры | Matplotlib, NumPy, Pandas, Python,
+исследовательский анализ данных описательная статистика предобработка данных
+проверка статистических гипотез |
 | [Анализ вакансий тестировщиков для QA–факультета](https://github.com/unlunzzo/yndx-praktikum-projects/blob/master/HH_QA/QA_vacancies.ipynb) | текст | текст |
-
-
-| [Оптимизация маркетинговых затрат в Яндекс.Афише](https://github.com/unlunzzo/yndx-praktikum-projects/blob/master/Marketing_costs_Afisha/marketing_costs.ipynb) | текст | текст |
+| [Оптимизация маркетинговых затрат в Яндекс.Афише](https://github.com/unlunzzo/yndx-praktikum-projects/blob/master/Marketing_costs_Afisha/marketing_costs.ipynb) | На основе данных о посещениях сайта Яндекс.Афиши изучить, как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается | Matplotlib, Pandas, Python, когортный анализ, продуктовые метрики, юнит-экономика |
